@@ -28,9 +28,9 @@ Acessei o portal do Speech em https://language.cognitive.azure.com/ utilizando m
 
 * Análise das entradas das sentenças:
 
- - ##🚀[sequencia 1](../assets/sequence%201.png);
+ - ##🚀[sequencia 1](../assets/sequence1.png);
 
- - ##🚀[sequencia 2](../assets/sequence%202.png);
+ - ##🚀[sequencia 2](../assets/sequence2.png);
 
- - ##🚀[sequencia 3](../assets/sequence%203.png);
+ - ##🚀[sequencia 3](../assets/sequence3.png);
 
