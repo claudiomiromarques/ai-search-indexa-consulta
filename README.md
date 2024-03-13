@@ -1,39 +1,30 @@
 <h2>
-Projeto de Análise de Sentimentos com Language Studio no Azure AI
+Projeto utilizando AI Search para indexação e consulta de Dados
 </h2>
   
 <p>
-##🚀 Acesso o portal do Speech:
+##🚀 Seguindo o tutorial:
 
 </p>
 
 <p>
 
-No portal do Speech - https://speech.microsoft.com/portal, utlizar as credenciais da Microsoft.
-
-* Opção "AI + Machine Learning", "Criar recurso";
-
-Acessei o Azure AI Speech studio:
-
-* Iniciei o Azure AI Speech studio
-
-Realizei login no Azure AI Speech studio utilizando minha conta da Microsoft.
-
-No Azure AI Speech studio, visualizei o workspace e em seguida, selecionei o recurso que acabei de criar.
-
-Acessei o portal do Speech em https://language.cognitive.azure.com/ utilizando minhas credenciais da Microsoft.
+https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/11-ai-search.html,
 
 </p>
 
-* Selecionei "Classify text".
 
-* Selecionei "Analyze sentiment and opinions".
 
-* Análise das entradas das sentenças:
+ - ![imagem 1](./assets/imagem-selecionar-AI-Search.png);
 
- - ##🚀[sequencia 1](../assets/sequence1.png);
+ - ![imagem 2](./assets/imagem2-importando-dados.png);
 
- - ##🚀[sequencia 2](../assets/sequence2.png);
+ - ![imagem 3](./assets/imagem3-importando-preencher-dados.png);
 
- - ##🚀[sequencia 3](../assets/sequence3.png);
+ - ![imagem 4](./assets/imagem4-conta-armazenamento.png);
+
+ - ![imagem 5](./assets/imagem5-selecionar-container.png);
+
+ - ![imagem 6 ](./assets/imagem6-resultado.png);
+
 
